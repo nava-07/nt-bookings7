@@ -1,19 +1,6 @@
-<!doctype html>
+
 <html> 
  <head> 
-  <title>NT Bookings</title> 
-  <style>
- .div1{
-   text-align: center;
-   color: lightblue;
- }
- .div2{
-   text-align: center;
-   color:red;
-   }
-  
-   
- </style> 
  </head> 
  <body> <a id="HOME" "></a> 
   <div style="background-color:#000000"> <marquee behaviour="scroll fast" direction="left"> 
